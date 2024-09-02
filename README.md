@@ -1,7 +1,7 @@
 # Learning-Python
 
 - ✅ `Chapter - 1` : Modules, Pip and Comments
-- ⬜ `Chapter - 2` : Variables and Datatype
+- ✅ `Chapter - 2` : Variables and Datatype
 - ⬜ `Chapter - 3` : Strings
 - ⬜ `Chapter - 4` : List and Tuples
 - ⬜ `Chapter - 5` : Dictionary and Sets
