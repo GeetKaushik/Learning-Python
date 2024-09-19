@@ -3,7 +3,7 @@
 - ✅ `Chapter - 1` : Modules, Pip and Comments
 - ✅ `Chapter - 2` : Variables and Datatype
 - ✅ `Chapter - 3` : Strings
-- ⬜ `Chapter - 4` : List and Tuples
+- ✅ `Chapter - 4` : List and Tuples
 - ⬜ `Chapter - 5` : Dictionary and Sets
 - ⬜ `Chapter - 6` : Conditional expressions
 - ⬜ `Chapter - 7` : Loops in Python
