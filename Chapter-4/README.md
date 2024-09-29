@@ -5,8 +5,8 @@
 ### `Lists`
 - `lists` are containers to store set of any values od any data type.
   - Example: 
-  ```
-    planets = ["Mercury", "Venus", "Earth", "Mars"]
+  ```py
+    planets = ["Mercury", "Venus","Earth","Mars"]
     numbers = [1,2,3,4]
   ```
 - `lists` are mutable
@@ -15,7 +15,7 @@
 ### `Tuples`
 - `tuples` are similar as lists but they are immutable like `Strings`
   - Example: 
-    ```
+    ```py
     vowels = ('a','e','i','o','u')
     ```
 - `tuples` are made by using `()` brackets
