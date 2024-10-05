@@ -6,7 +6,7 @@
 - ✅ `Chapter - 4` : List and Tuples
 - ✅ `Chapter - 5` : Dictionary and Sets
 - ✅ `Chapter - 6` : Conditional expressions
-- ⬜ `Chapter - 7` : Loops in Python
+- ✅ `Chapter - 7` : Loops in Python
 - ⬜ `Chapter - 8` : Functions and Recursions
 - ⬜ `Chapter - 9` : File I/O
 - ⬜ `Chapter - 10` : OOPs
