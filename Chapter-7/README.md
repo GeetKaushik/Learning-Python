@@ -1,4 +1,4 @@
-# Chapter - 6 : Loops in Python
+# Chapter - 7 : Loops in Python
 
 ## In this Chapter we will learn about loops in python
 
