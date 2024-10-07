@@ -8,7 +8,7 @@
 - ✅ `Chapter - 6` : Conditional expressions
 - ✅ `Chapter - 7` : Loops in Python
 - ✅ `Chapter - 8` : Functions and Recursions
-- ⬜ `Chapter - 9` : File I/O
+- ✅ `Chapter - 9` : File I/O
 - ⬜ `Chapter - 10` : OOPs
 - ⬜ `Chapter - 11` : Inheritence and more on OOPs
 - ⬜ `Chapter - 12` : Advanvce Python 1
